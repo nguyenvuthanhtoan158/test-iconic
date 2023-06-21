@@ -1,0 +1,8 @@
+{
+  "name": "NobiNobi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "0d93fb0a"
+}
